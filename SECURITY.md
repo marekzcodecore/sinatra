@@ -1,4 +1,5 @@
 # Reporting a security bug
+# this is my change
 
 All security bugs in Sinatra should be reported to the core team through our private mailing list [sinatra-security@googlegroups.com](https://groups.google.com/group/sinatra-security). Your report will be acknowledged within 24 hours, and you’ll receive a more detailed response to your email within 48 hours indicating the next steps in handling your report.
 
